@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Challenge4Application",
+    "slug": "challenge4application",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/icon.png"
+      },
+      "package": "com.tirsit.challenge4"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
