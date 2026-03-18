@@ -51,7 +51,7 @@ Bu proje, bir Tamagotchi tarzı dijital evcil hayvan simülatörüdür. Kullanı
 ## 📲 İndirilebilir APK Dosyası
 
 APK dosyasını doğrudan indirmek için:  
-[https://github.com/Tirsitt/digital-pet-tamagotchi/blob/main/apk/application.apk](https://github.com/Tirsitt/digital-pet-tamagotchi/blob/main/apk/application.apk)
+[https://github.com/Tirsitt/digital-pet-tamagotchi/blob/main/apk](https://github.com/Tirsitt/digital-pet-tamagotchi/blob/main/apk)
 
 ## 🎥 YouTube Tanıtım Videosu
 
