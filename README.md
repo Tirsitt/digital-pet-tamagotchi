@@ -55,8 +55,7 @@ APK dosyasını doğrudan indirmek için:
 
 ## 🎥 YouTube Tanıtım Videosu
 
-[https://www.youtube.com/shorts/Bx-4Q9BDJZA]
-(https://www.youtube.com/shorts/Bx-4Q9BDJZA)
+[https://www.youtube.com/shorts/Bx-4Q9BDJZA](https://www.youtube.com/shorts/Bx-4Q9BDJZA)
 
 ## 🛠️ Kullanılan Teknolojiler
 
