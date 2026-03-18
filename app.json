@@ -4,21 +4,21 @@
     "slug": "challenge4application",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true
     },
     "android": {
+      "package": "com.tirsit.challenge4",
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
-        "foregroundImage": "./assets/icon.png"
-      },
-      "package": "com.tirsit.challenge4"
+        "backgroundColor": "#020617"
+      }
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
+    "extra": {
+      "eas": {
+        "projectId": "d6aae8f6-39c1-422a-9956-bbd82de96cb7"
+      }
     }
   }
 }
