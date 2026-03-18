@@ -1,50 +1,64 @@
-# Welcome to your Expo app 👋
+# 🎮 Dijital Evcil Hayvan (Tamagotchi) - Oyunlaştırılmış React Native Uygulaması
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## 🎯 Projenin Amacı
 
-## Get started
+Bu proje, bir Tamagotchi tarzı dijital evcil hayvan simülatörüdür. Kullanıcılar kendi sanal evcil hayvanlarını yaratır, besler, oynar ve büyütürler. Temel amaç, React Native ile oyunlaştırılmış bir mobil uygulama geliştirmek ve kullanıcıların sorumluluk duygusuyla eğlenceli vakit geçirmesini sağlamaktır.
 
-1. Install dependencies
+## 🎮 Oyunlaştırma Özellikleri
 
-   ```bash
+- **Seviye Sistemi (Leveling System)** - Evcil hayvanlar yaşa göre 4 aşamada evrimleşir:
+  - 🥚 Bebek (Başlangıç)
+  - 🐉 Genç (Yaş 10+)
+  - 🐲 Yetişkin (Yaş 20+)
+  - 👑 Kral (Yaş 30+)
+
+- **Ekonomi Sistemi (Economy System)** - Oynayarak coin kazan, yiyecek ve oyuncak satın al
+
+- **Envanter Yönetimi (Inventory Management)** - Yiyecek, oyuncak ve ilaç stoklarını takip et
+
+- **Gerçek Zamanlı İstatistikler (Real-time Stats)** - Açlık, mutluluk ve enerji seviyelerini görsel barlarla takip et
+
+- **Başarım Sistemi (Achievement System)** - Evrimleşme anlarında bildirimler ve ödüller
+
+- **Oda Sistemi (Room-based Exploration)** - Mutfak, Oyun Alanı, Yatak Odası ve Ana Oda
+
+## 📥 Adım Adım "Nasıl Çalıştırılır?" (Installation & Run)
+
+### Gereksinimler (Prerequisites)
+- Node.js (v16 veya üzeri)
+- npm veya yarn
+- Expo CLI (npm install -g expo-cli)
+- Android Studio (emülatör için) veya Expo Go uygulamalı telefon
+
+### Çalıştırma Adımları
+
+1. Projeyi klonlayın
+   git clone https://github.com/Tirsitt/digital-pet-tamagotchi.git
+
+2. Bağımlılıkları yükleyin
    npm install
-   ```
 
-2. Start the app
+3. Uygulamayı başlatın
+   npm start
+   veya
+   expo start
 
-   ```bash
-   npx expo start
-   ```
+4. Cihazda çalıştırın
+   - Android: Expo Go uygulaması ile QR kodu okutun
+   - Emülatör: 'a' tuşuna basın
+   - iOS Simulator: 'i' tuşuna basın
 
-In the output, you'll find options to open the app in a
+## 📲 İndirilebilir APK Dosyası
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+APK dosyasını doğrudan indirmek için:  
+[https://github.com/Tirsitt/digital-pet-tamagotchi/blob/main/apk/application.apk](https://github.com/Tirsitt/digital-pet-tamagotchi/blob/main/apk/application.apk)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🎥 YouTube Tanıtım Videosu
 
-## Get a fresh project
+[https://www.youtube.com/shorts/Bx-4Q9BDJZA](https://www.youtube.com/shorts/Bx-4Q9BDJZA)
 
-When you're ready, run:
+## 🛠️ Kullanılan Teknolojiler
 
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- React Native
+- Expo
+- JavaScript
